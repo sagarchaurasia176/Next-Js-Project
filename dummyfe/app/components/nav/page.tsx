@@ -10,6 +10,7 @@ export default function Navbar() {
             Home
           </Link>
         </li>
+        {/* Minor issues changed */}
         <li>
           <Link href="/pages/contact" className="hover:text-blue-400 transition duration-200">
             Contact
